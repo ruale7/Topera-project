@@ -43,3 +43,5 @@ For additional help, images an videos, go to our github web page at:
 Special thanks to:
 - [Mario Vilas](https://github.com/MarioVilas)
 - [Henri Salo](https://github.com/fgeek)
+
+#Participing in topera project
